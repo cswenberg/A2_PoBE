@@ -7,3 +7,4 @@ migrations
 npm-debug.log
 results
 secret
+site.yml
